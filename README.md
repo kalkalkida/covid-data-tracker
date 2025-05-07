@@ -1,6 +1,5 @@
 # COVID-19 Global Data Tracker
 
-![COVID-19 Dashboard Screenshot](images/dashboard_screenshot.png)
 
 ## Project Description
 A Python-based data analysis project tracking COVID-19 cases, deaths, and vaccinations globally. The system processes real-world data to generate interactive visualizations and key insights about pandemic trends.
